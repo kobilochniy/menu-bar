@@ -1,0 +1,28 @@
+[
+  {
+    "title": "First",
+    "nodes": [
+      "1",
+      "2"
+    ],
+    "show": false
+  },
+  {
+    "title": "Second",
+    "nodes": [
+      "3",
+      "4",
+      "6"
+    ],
+    "show": true
+  },
+  {
+    "title": "Third",
+    "nodes": [
+      "7",
+      "8",
+      "9"
+    ],
+    "show": false
+  }
+]
